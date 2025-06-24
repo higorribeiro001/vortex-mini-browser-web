@@ -1,0 +1,23 @@
+.root {
+	-fx-background-color: #001B30;
+}
+
+.button {
+	-fx-text-fill: #001B30;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+	-fx-border-radius: 25;
+	-fx-background-radius: 25;
+	-fx-background-color: #FFFFFF;
+	-fx-cursor: hand;
+	-fx-pref-width: 28pt;
+	-fx-pref-height: 28pt;
+}
+
+.text-field {
+	-fx-border-radius: 25;
+	-fx-background-radius: 25;
+	-fx-pref-width: 540pt;
+	-fx-pref-height: 28pt;
+	-fx-font-size: 16px;
+}
